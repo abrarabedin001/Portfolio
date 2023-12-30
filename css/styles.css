@@ -1,5 +1,7 @@
 /* Description: Master CSS file */
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /*****************************************
 Table Of Contents:
 - General Styles
